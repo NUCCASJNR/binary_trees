@@ -1,5 +1,7 @@
 ## Binary Trees
 
+
+![Binary tree logo](https://www.tutorialspoint.com/data_structures_algorithms/images/binary_tree.jpg)
 ## Brief introduction to binary trees
 
 A binary tree is a tree data structure in which each node has at most two children, referred to as the left child and the right child. Each node in a binary tree stores some data, which can be any type of object depending on the application.
